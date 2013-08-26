@@ -7,19 +7,12 @@
   ],
   "ignore"      : [
     "**/.*",
-    "*.rb",
-    "js/components",
-    "js/plugins",
-    "src",
-    "templates",
-    "tests",
-    "Gemfile",
-    "Gemfile.lock",
-    "Gruntfile.coffee",
     "*.json",
-    "robots.txt",
-    "node_modules",
-    "components"
+    "*.rb",
+    "js/demo",
+    "src",
+    "Gruntfile.coffee",
+    "node_modules"
   ],
   "dependencies": {
     "jquery": "~1.10.2",

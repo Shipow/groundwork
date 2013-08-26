@@ -9,8 +9,8 @@
     "grunt-contrib-jade": "~0.5.0",
     "grunt-contrib-sass": "~0.3.0",
     "grunt-contrib-compass": "~0.2.0",
-    "grunt-contrib-concat": "~0.3.0",
     "grunt-contrib-cssmin": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.3",
     "grunt-autoprefixer": "~0.2.2"
   },
   "repository": {
@@ -20,22 +20,29 @@
   "keywords": [
     "groundworkcss",
     "groundwork",
+    "groundwork 2",
     "responsive",
     "adaptive",
+    "front-end",
     "framework",
+    "toolkit",
     "grid",
     "fluid",
+    "fractional",
     "css",
+    "javascript",
+    "jquery",
     "sass",
     "scss",
     "compass",
     "autoprefixer",
+    "cssmin",
+    "coffee",
     "coffeescript",
-    "javascript",
-    "jquery"
+    "uglify"
   ],
   "author": "Gary Hepting",
   "license": "MIT",
   "readmeFilename": "README.md",
-  "gitHead": "b6af665aeb7e035b8280b6827554120d476d3edb"
+  "gitHead": "b2919e4dbc6f3aabb67697e004b473e4ebe09a5d"
 }
